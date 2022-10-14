@@ -1,7 +1,13 @@
+[Adblock Plus 3.1]
+! Version: 20221014
+! Title: ABP filters
+! Homepage: https://github.com/Murakumo-JP/MyAdblockList
+! MISC
 myanimelist.net###.banner-header-anime-straming
 myanimelist.net##.header-mini-banner
 myanimelist.net##.btn-mal-service
 myanimelist.net###footer-block
+myanimelist.net##.wrapper div[data-koukoku-width="970"]
 fflogs.com###top-banner
 fflogs.com###right-ad-box
 fflogs.com###bottom-banner
