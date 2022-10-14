@@ -1,0 +1,7 @@
+myanimelist.net###.banner-header-anime-straming
+myanimelist.net##.header-mini-banner
+myanimelist.net##.btn-mal-service
+myanimelist.net###footer-block
+fflogs.com###top-banner
+fflogs.com###right-ad-box
+fflogs.com###bottom-banner
