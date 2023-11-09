@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Version: 17.07.2023
+! Version: 09.11.2023
 ! Title: MurakumoJP AdblockList
 ! Homepage: https://github.com/Murakumo-JP/MyAdblockList
 myanimelist.net###.banner-header-anime-straming
@@ -9,9 +9,12 @@ myanimelist.net###footer-block
 myanimelist.net##.wrapper div[data-koukoku-width="970"]
 xivmodarchive.com###footer-ad
 xivmodarchive.com##.up-show
+fflogs.com###top-banner-fallback
 fflogs.com###top-banner
 fflogs.com###right-ad-box
 fflogs.com###bottom-banner
+etro.gg###etro-ad-gearset-top
+etro.gg###etro-ad-gearset-bottom
 f95zone.to##li div a[data-nav-id="Nutaku"]
 f95zone.to##li div a[data-nav-id="LiveSexCams"]
 f95zone.to##li div a[data-nav-id="LiveCamGirls"]
@@ -27,3 +30,9 @@ twitter.com##a[href*="/highlights"]
 pixiv.net##iframe[name="expandedFooter"]
 pixiv.net##div[style="height: 540px; opacity: 1;"]
 pixiv.net##aside>div
+vk.com##.ProfileGifts
+vk.com##.EasterEggsContainer
+vk.com##.LegalRecommendationsLinkLeftMenuAuthorized
+pikabu.ru##.app-banner_sidebar
+pikabu.ru##.footer
+pikabu.ru##article[data-author-name="vacancies.pikabu"]
