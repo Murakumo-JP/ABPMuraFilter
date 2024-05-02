@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Version: 07.02.2024
+! Version: 02.05.2024
 ! Title: MurakumoJP AdblockList
 ! Homepage: https://github.com/Murakumo-JP/MyAdblockList
 myanimelist.net###.banner-header-anime-straming
@@ -7,6 +7,7 @@ myanimelist.net##.header-mini-banner
 myanimelist.net##.btn-mal-service
 myanimelist.net###footer-block
 myanimelist.net##.wrapper div[data-koukoku-width="970"]
+myanimelist.net##.header-menu-login
 xivmodarchive.com###footer-ad
 xivmodarchive.com##.up-show
 fflogs.com###top-banner-fallback
@@ -34,6 +35,8 @@ pixiv.net##aside>div
 vk.com##.ProfileGifts
 vk.com##.EasterEggsContainer
 vk.com##.LegalRecommendationsLinkLeftMenuAuthorized
+vk.com##.LegalRecommendationsLinkLeftMenuAuthorized__link
 pikabu.ru##.app-banner_sidebar
 pikabu.ru##.footer
 pikabu.ru##article[data-author-name="vacancies.pikabu"]
+anilibria.tv##.sponsor
