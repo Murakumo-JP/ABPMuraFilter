@@ -1,5 +1,5 @@
 [Adblock Plus 3.1]
-! Version: 02.05.2024
+! Version: 01.06.2024
 ! Title: MurakumoJP AdblockList
 ! Homepage: https://github.com/Murakumo-JP/MyAdblockList
 myanimelist.net###.banner-header-anime-straming
@@ -23,7 +23,10 @@ f95zone.to##li div a[data-nav-id="ThePornDude"]
 f95zone.to##li div a[data-nav-id="LewdPatcher"]
 f95zone.to##li div a[data-nav-id="mfslanging"]
 f95zone.to##li div a[data-nav-id="deepswap"]
+f95zone.to##li div a[data-nav-id="deepswap1"]
+f95zone.to##li div a[data-nav-id="deepswap2"]
 f95zone.to##li div a[data-nav-id="AISexChat"]
+f95zone.to##li div a[data-nav-id="AIPorn"]
 f95zone.to##fullwidth_slider.es-slides-ready
 twitter.com##a[href="/i/verified-orgs-signup"]
 twitter.com##a[href="/i/twitter_blue_sign_up"]
