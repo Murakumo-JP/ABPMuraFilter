@@ -1,3 +1,3 @@
-# MyAdblock-List
+# Info
 
 * My little list for ad blocking
