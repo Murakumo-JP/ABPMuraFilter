@@ -46,8 +46,6 @@ vk.com##.LegalRecommendationsLinkLeftMenuAuthorized
 vk.com##.LegalRecommendationsLinkLeftMenuAuthorized__link
 vk.com##a[href="/netkiberbulling"]
 vk.com##.left_menu_nav_wrap
-vk.com##.post:has(.post_header_subscribe_button)
-vk.com##.post:has(.PostActivityCaption)
 pikabu.ru##.app-banner_sidebar
 pikabu.ru##.footer
 pikabu.ru##article[data-author-name="vacancies.pikabu"]
