@@ -47,3 +47,9 @@ x.com##a[href*="/jobs"]
 pixiv.net##iframe[name="expandedFooter"]
 pixiv.net##div[style="height: 540px; opacity: 1;"]
 pixiv.net##aside>div
+vk.com##.ProfileGifts
+vk.com##.EasterEggsContainer
+vk.com##.LegalRecommendationsLinkLeftMenuAuthorized
+vk.com##.LegalRecommendationsLinkLeftMenuAuthorized__link
+vk.com##a[href="/netkiberbulling"]
+vk.com##.left_menu_nav_wrap
