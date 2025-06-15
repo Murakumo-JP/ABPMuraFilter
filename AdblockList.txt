@@ -44,3 +44,6 @@ x.com##a[href="/i/premium_sign_up"]
 x.com##a[href*="/highlights"]
 x.com##a[href*="/articles"]
 x.com##a[href*="/jobs"]
+pixiv.net##iframe[name="expandedFooter"]
+pixiv.net##div[style="height: 540px; opacity: 1;"]
+pixiv.net##aside>div
