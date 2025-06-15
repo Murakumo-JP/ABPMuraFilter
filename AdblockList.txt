@@ -37,19 +37,3 @@ f95zone.to##li div a[data-nav-id="SexCams"]
 f95zone.to##li div a[data-nav-id="HentaiHeroes"]
 f95zone.to##li div a[data-nav-id="Hentaitovideo"]
 f95zone.to##fullwidth_slider.es-slides-ready
-x.com##a[href="/i/verified-orgs-signup"]
-x.com##a[href="/i/twitter_blue_sign_up"]
-x.com##a[href="/i/verified-choose"]
-x.com##a[href="/i/premium_sign_up"]
-x.com##a[href*="/highlights"]
-x.com##a[href*="/articles"]
-x.com##a[href*="/jobs"]
-vk.com##.ProfileGifts
-vk.com##.EasterEggsContainer
-vk.com##.LegalRecommendationsLinkLeftMenuAuthorized
-vk.com##.LegalRecommendationsLinkLeftMenuAuthorized__link
-vk.com##a[href="/netkiberbulling"]
-vk.com##.left_menu_nav_wrap
-pikabu.ru##article[data-author-name="vacancies.pikabu"]
-anilibria.tv##.sponsor
-pornolab.net###cookieNotice
