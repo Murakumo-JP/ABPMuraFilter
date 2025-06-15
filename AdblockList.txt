@@ -1,4 +1,4 @@
-[Adblock Plus 3.1]
+﻿[Adblock Plus 3.1]
 ! Title: MurakumoJP AdblockList
 ! Version: 15062025
 ! Expires: 1 day
