@@ -1,7 +1,10 @@
 [Adblock Plus 3.1]
-! Version: 14.06.2025
 ! Title: MurakumoJP AdblockList
+! Version: 15062025
+! Expires: 1 day
+! Last modified: 15 Jun 2025 12:00 UTC
 ! Homepage: https://github.com/Murakumo-JP/ABPMuraFilte
+! Description: MurakumoJP AdblockList
 myanimelist.net###.banner-header-anime-straming
 myanimelist.net##.header-mini-banner
 myanimelist.net##.btn-mal-service
