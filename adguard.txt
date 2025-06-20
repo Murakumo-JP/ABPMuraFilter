@@ -1,0 +1,32 @@
+!
+! Title: MurakumoJP's Whitelist
+! Description: Personal allowlist for unblocking specific websites in AdGuard Home
+! Version: 1.0.0.0
+! Homepage: https://github.com/Murakumo-JP/ABPMuraFilter
+! Last modified: 2025-06-20T14:31:22.000Z
+!
+@@||kemono.su^$important
+@@||analytics.google.com^$important
+@@||x.com^$important
+@@||ads-api.x.com^$important
+@@||coomer.su^$important
+@@||ntc.party^$important
+@@||xivmods.guide^$important
+@@||plab.site^$important
+@@||kuboteka.shop^$important
+@@||tildacdn.com^$important
+@@||craftia.pet^$important
+@@||anilibria.top^$important
+@@||api-partner.spotify.com^$important
+@@||docs.amnezia.org^$important
+@@||openvpn.net^$important
+@@||kazanova.shop^$important
+@@||digiseller.mycdn.ink^$important
+@@||carrd.co^$important
+@@||author.today^$important
+@@||stream.voidboost.cc^$important
+@@||unvaulted.coomer.party^$important
+@@||libria.fun^$important
+@@||osirisreborn.owlcat.games^$important
+@@||cdn.tzatzikiweeb.moe^$important
+@@||youpic.su^$important
