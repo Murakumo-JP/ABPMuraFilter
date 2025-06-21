@@ -1,32 +1,33 @@
 !
 ! Title: MurakumoJP's Whitelist
 ! Description: Personal allowlist for unblocking specific websites in AdGuard Home
-! Version: 1.0.0.0
+! Version: 1.0.0.1
 ! Homepage: https://github.com/Murakumo-JP/ABPMuraFilter
-! Last modified: 2025-06-20T14:31:22.000Z
+! Last modified: 2025-06-21
 !
-@@||kemono.su^$important
-@@||analytics.google.com^$important
-@@||x.com^$important
-@@||ads-api.x.com^$important
-@@||coomer.su^$important
-@@||ntc.party^$important
-@@||xivmods.guide^$important
-@@||plab.site^$important
-@@||kuboteka.shop^$important
-@@||tildacdn.com^$important
-@@||craftia.pet^$important
-@@||anilibria.top^$important
-@@||api-partner.spotify.com^$important
-@@||docs.amnezia.org^$important
-@@||openvpn.net^$important
-@@||kazanova.shop^$important
-@@||digiseller.mycdn.ink^$important
-@@||carrd.co^$important
-@@||author.today^$important
-@@||stream.voidboost.cc^$important
-@@||unvaulted.coomer.party^$important
-@@||libria.fun^$important
-@@||osirisreborn.owlcat.games^$important
-@@||cdn.tzatzikiweeb.moe^$important
-@@||youpic.su^$important
+@@||kemono.su^
+@@||analytics.google.com^
+@@||x.com^
+@@||ads-api.x.com^
+@@||coomer.su^
+@@||ntc.party^
+@@||xivmods.guide^
+@@||plab.site^
+@@||kuboteka.shop^
+@@||tildacdn.com^
+@@||craftia.pet^
+@@||anilibria.top^
+@@||api-partner.spotify.com^
+@@||docs.amnezia.org^
+@@||openvpn.net^
+@@||kazanova.shop^
+@@||digiseller.mycdn.ink^
+@@||carrd.co^
+@@||author.today^
+@@||stream.voidboost.cc^
+@@||unvaulted.coomer.party^
+@@||libria.fun^
+@@||osirisreborn.owlcat.games^
+@@||cdn.tzatzikiweeb.moe^
+@@||youpic.su^
+@@||biblioteka.shop^
