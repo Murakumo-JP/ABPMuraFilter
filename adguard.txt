@@ -1,9 +1,9 @@
 !
 ! Title: MurakumoJP's Whitelist
 ! Description: Personal allowlist for unblocking specific websites in AdGuard Home
-! Version: 1.0.0.1
+! Version: 1.0.0.2
 ! Homepage: https://github.com/Murakumo-JP/ABPMuraFilter
-! Last modified: 2025-06-21
+! Last modified: 2025-07-07
 !
 @@||kemono.su^
 @@||analytics.google.com^
@@ -31,3 +31,4 @@
 @@||cdn.tzatzikiweeb.moe^
 @@||youpic.su^
 @@||biblioteka.shop^
+@@||rutracker.cc^
