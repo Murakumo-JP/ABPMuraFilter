@@ -17,6 +17,7 @@
 @@||tildacdn.com^
 @@||craftia.pet^
 @@||anilibria.top^
+@@||aniliberty.top^
 @@||api-partner.spotify.com^
 @@||docs.amnezia.org^
 @@||openvpn.net^
@@ -32,4 +33,3 @@
 @@||youpic.su^
 @@||biblioteka.shop^
 @@||rutracker.cc^
-@@||aniliberty.top^

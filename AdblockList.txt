@@ -1,6 +1,6 @@
 [Adblock Plus 3.1]
 ! Title: MurakumoJP AdblockList
-! Version: 15062025
+! Version: 18072025
 ! Expires: 1 day
 ! Last modified: 15 Jun 2025 12:00 UTC
 ! Homepage: https://github.com/Murakumo-JP/ABPMuraFilte
@@ -36,6 +36,7 @@ f95zone.to##li div a[data-nav-id^="cdy"]
 f95zone.to##li div a[data-nav-id="SexCams"]
 f95zone.to##li div a[data-nav-id="HentaiHeroes"]
 f95zone.to##li div a[data-nav-id="Hentaitovideo"]
+f95zone.to##li div a[data-nav-id="FapChat"]
 f95zone.to##fullwidth_slider.es-slides-ready
 x.com##a[href="/i/verified-orgs-signup"]
 x.com##a[href="/i/twitter_blue_sign_up"]
